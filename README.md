@@ -1,4 +1,6 @@
 [![Robert Szachnowski's github stats](https://github-readme-stats.vercel.app/api?username=rafek1241&count_private=true)](https://github.com/rafek1241?tab=repositories)
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-szachnowski-810456142/)
 <!--
 **rafek1241/rafek1241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
